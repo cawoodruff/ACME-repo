@@ -1,0 +1,1 @@
+echo "This container was started at" `date "+%F %T"`
